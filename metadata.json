@@ -1,0 +1,6 @@
+{
+  "name": "BeatCraft Pro DJ",
+  "description": "Intelligent cognitive music co-pilot DJ studio with real-time harmonic set forecasting, 3 musical futures, 2D musical space topology, and live crowd telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
